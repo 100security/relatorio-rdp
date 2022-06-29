@@ -6,4 +6,5 @@ Saber em qual Computador ou Servidor um determinado Usuário Logou ou está Loga
 # Relatório em HTML
 ![](https://www.100security.com.br/images/windows-usuarios-11.jpg)
 
-Fonte: https://www.100security.com.br/windows-usuarios
+# Artigo 
+www.100security.com.br/windows-usuarios
